@@ -24,6 +24,7 @@ main{
     border-radius: 1rem;
     padding: 2rem 2rem 2rem 2rem;
     overflow-x: auto;
+    overflow-y: auto;
 }
 
 .title small{
