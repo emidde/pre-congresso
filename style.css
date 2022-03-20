@@ -19,7 +19,7 @@ main{
 .formulario {
     background: white;
     margin: 3rem 2rem 4rem 2rem;
-    height: 35rem;
+    height: 40vh;
     border-radius: 1rem;
     padding: 2rem 2rem 2rem 2rem;
     overflow-x: auto;
